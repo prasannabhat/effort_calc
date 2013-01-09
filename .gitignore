@@ -1,0 +1,12 @@
+#List of files to ignore
+/response.xml
+/response_ref.xml
+/EffortPlanning.xls
+
+#Ignore the folders
+/_log/
+/_out/bin/
+
+#Ignore all files with pyc extension
+*.xls
+*/*.zip
